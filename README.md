@@ -12,9 +12,7 @@ No Discord libraries. No API wrappers. Lightweight, async, and ideal for learnin
 - Custom status, activity type, and text fields
 - Heartbeat and auto-reconnect logic
 - Minimal dependencies (`aiohttp` only)
-- 
-## Quick Start
 
-### Requirements
+## Requirements
 ```sh
 pip install aiohttp
